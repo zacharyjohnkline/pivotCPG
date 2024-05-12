@@ -81,7 +81,7 @@ body {
   font-size: calc(20px + 20 * ((100vh - 320px) / 680));
   padding: 10px;
   text-align: left;
-  margin-top: calc(-40px + 140 * ((100vh - 320px) / 680));
+  margin-top: calc(-80px + 180 * ((100vh - 320px) / 680));
   /* background-color: blue; */
   height: 75%;
   color: gray;
