@@ -140,7 +140,7 @@ body {
   gap: 0px 20px;
 }
 .tagline-words {
-  font-size: calc(30px + 10 * ((100vw - 320px) / 680));
+  font-size: calc(35px + 10 * ((100vw - 320px) / 680));
   /* padding: 10px 0px; */
   /* background-color: blue; */
 }
